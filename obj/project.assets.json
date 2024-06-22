@@ -719,23 +719,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\juanh\\.nuget\\packages\\": {},
+    "C:\\Users\\jumendes\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\projects\\Blog\\Blog.csproj",
+      "projectUniqueName": "C:\\dev\\DataAccess\\BlogEF\\Blog.csproj",
       "projectName": "Blog",
-      "projectPath": "C:\\dev\\projects\\Blog\\Blog.csproj",
-      "packagesPath": "C:\\Users\\juanh\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\projects\\Blog\\obj\\",
+      "projectPath": "C:\\dev\\DataAccess\\BlogEF\\Blog.csproj",
+      "packagesPath": "C:\\Users\\jumendes\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\DataAccess\\BlogEF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\juanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jumendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -793,7 +793,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -15,7 +15,7 @@ namespace Blog.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySql("server=localhost;database=blog;user=root;password=;",new MySqlServerVersion(new Version(8,0,2)))   ;
+            optionsBuilder.UseMySql("server=localhost;database=blog;user=root;password=;", new MySqlServerVersion(new Version(8, 0, 2)));
         }
     }
 }
