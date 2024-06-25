@@ -19,9 +19,9 @@ obj/
 packages/
 
 # Ignore configurações de build
-*.build.csproj
-*.build.props
-*.build.targets
+# *.build.csproj
+# *.build.props
+# *.build.targets
 
 # Ignore logs e arquivos de cache
 *.log

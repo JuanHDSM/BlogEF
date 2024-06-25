@@ -1,1 +1,1 @@
-﻿
+﻿System.Console.WriteLine("Hello EF Core");

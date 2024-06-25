@@ -26,6 +26,8 @@ namespace Blog.Data.Mappings
             builder.Property(x => x.Email).HasColumnName("email");
             builder.Property(x => x.Image).HasColumnName("image");
             builder.Property(x => x.PasswordHash).HasColumnName("password_hash");
+            builder.Property(x => x.GitHub).HasColumnName("github");
+
 
             builder.Property(x => x.Slug)
                 .IsRequired()
