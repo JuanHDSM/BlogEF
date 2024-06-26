@@ -15,6 +15,6 @@ namespace Blog.Models
         public DateTime LastUpdateDate { get; set; }
         public Category Category { get; set; } = null!;
         public User Author { get; set; } = null!;
-        public List<Tag> Tags { get; set; }
+        public virtual List<Tag> Tags { get; set; }
     }
 }
